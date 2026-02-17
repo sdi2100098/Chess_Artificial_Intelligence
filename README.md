@@ -13,4 +13,3 @@ cmake --build . -- -j
 ```
 
 Next steps: populate `src/` and `include/` with engine code, implement perft, search, and evaluation.
-# Chess_Artificial_Intelligence
