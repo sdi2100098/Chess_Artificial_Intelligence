@@ -1,0 +1,9 @@
+build/
+*.o
+*.obj
+*.exe
+*.log
+models/
+data/
+__pycache__/
+.vscode/
